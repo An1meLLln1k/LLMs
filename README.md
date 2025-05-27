@@ -19,7 +19,7 @@ LLMs/
 ├── Bert/
 │   ├── BERT_for_jailbreak_prompts_for_Llama_CHUNKS.ipynb
 │   └── Model_Evaluation_Report_(1)_(2).ipynb
----
+
 
  📌 Цель и задачи
 Разработка классификаторов на основе BERT для выявления jailbreak-промптов
